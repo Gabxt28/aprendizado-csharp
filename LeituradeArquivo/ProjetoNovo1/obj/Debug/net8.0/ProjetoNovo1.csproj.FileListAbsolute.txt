@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\bin\Debug\net8.0\ProjetoNovo1.exe
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\bin\Debug\net8.0\ProjetoNovo1.deps.json
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\bin\Debug\net8.0\ProjetoNovo1.runtimeconfig.json
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\bin\Debug\net8.0\ProjetoNovo1.dll
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\bin\Debug\net8.0\ProjetoNovo1.pdb
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\obj\Debug\net8.0\ProjetoNovo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\obj\Debug\net8.0\ProjetoNovo1.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\obj\Debug\net8.0\ProjetoNovo1.AssemblyInfo.cs
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\obj\Debug\net8.0\ProjetoNovo1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\obj\Debug\net8.0\ProjetoNovo1.dll
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\obj\Debug\net8.0\refint\ProjetoNovo1.dll
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\obj\Debug\net8.0\ProjetoNovo1.pdb
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\obj\Debug\net8.0\ProjetoNovo1.genruntimeconfig.cache
+C:\Users\gabri\source\repos\LeituradeArquivo\ProjetoNovo1\obj\Debug\net8.0\ref\ProjetoNovo1.dll

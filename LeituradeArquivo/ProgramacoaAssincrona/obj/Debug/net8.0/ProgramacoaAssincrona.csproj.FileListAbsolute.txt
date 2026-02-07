@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\bin\Debug\net8.0\ProgramacoaAssincrona.exe
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\bin\Debug\net8.0\ProgramacoaAssincrona.deps.json
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\bin\Debug\net8.0\ProgramacoaAssincrona.runtimeconfig.json
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\bin\Debug\net8.0\ProgramacoaAssincrona.dll
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\bin\Debug\net8.0\ProgramacoaAssincrona.pdb
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\obj\Debug\net8.0\ProgramacoaAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\obj\Debug\net8.0\ProgramacoaAssincrona.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\obj\Debug\net8.0\ProgramacoaAssincrona.AssemblyInfo.cs
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\obj\Debug\net8.0\ProgramacoaAssincrona.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\obj\Debug\net8.0\ProgramacoaAssincrona.dll
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\obj\Debug\net8.0\refint\ProgramacoaAssincrona.dll
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\obj\Debug\net8.0\ProgramacoaAssincrona.pdb
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\obj\Debug\net8.0\ProgramacoaAssincrona.genruntimeconfig.cache
+C:\Users\gabri\source\repos\LeituradeArquivo\ProgramacoaAssincrona\obj\Debug\net8.0\ref\ProgramacoaAssincrona.dll
